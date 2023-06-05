@@ -1,0 +1,15 @@
+name: gpu_env
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - numpy
+    - matplotlib
+    - scipy
+    - ternary
+    - tensorflow-gpu
+    - Pillow
+    - scikit-learn
+    - keras
