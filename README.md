@@ -1,7 +1,7 @@
 
 # ChemicalCharts Project
 
-Welcome to the ChemicalCharts project repository! This project is a collection of data analysis and chart generation scripts related to chemical data. Whether you're exploring chemical properties, analyzing trends, or creating informative visualizations, this repository has you covered.
+Welcome to the ChemicalCharts project repository! This project is a collection of data analysis and chart generation scripts related to chemical data. 
 
 Read the project document to get an understanding. 
 [ChemistryProjectDocument.pdf](https://github.com/Maxwell103/ChemProject/files/13657826/ChemistryProjectDocument.pdf)
